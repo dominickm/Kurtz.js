@@ -1,6 +1,6 @@
 import {KUtils} from "../helpers/k_utils.js";
 
-class KModel {
+export class KModel {
     constructor(id, tableName) {
         this.id = id;
         this.tableName = tableName;
