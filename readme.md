@@ -1,0 +1,1 @@
+Kurts.js is a simple MVC framework for developing Progressive Web Applications. This is not a UI library but is meant to compatible and agnostic with most common front-end JS UI libraries such as Bootstrap. 
