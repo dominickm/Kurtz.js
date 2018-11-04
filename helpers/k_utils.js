@@ -2,7 +2,7 @@
 
 function isReallyNull(something) {
     var isNull = false;
-    if (something == null || something === undefined) {
+    if (something == null || something === undefined || something === "") {
         isNull = true;
     }
     return isNull;
